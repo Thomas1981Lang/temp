@@ -143,7 +143,7 @@ $(document).ready(function () {
                 });
             });
 
-
+//aa
             /*-------------------- todo erzeugen --------------------------*/
             var todo_text = `
                 <div data-id="${receive_todo[i].id}" class="section">
